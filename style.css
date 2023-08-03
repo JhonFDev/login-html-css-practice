@@ -1,0 +1,40 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.container {
+  border: 10px solid;
+  border-color: cornflowerblue;
+  margin-top: 100px;
+  width: 500px;
+  height: 300px;
+}
+h1 {
+  text-align: center;
+}
+#formview {
+  text-align: center;
+  height: 260px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+input{
+    padding: 15px 50px;
+    font-size: 19px;
+}
+button{
+    width: 100%;
+    padding: 15px 50px;
+    font-size: 19px;    
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 50px;
+}
+
